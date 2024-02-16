@@ -1,0 +1,14 @@
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\bin\Debug\net6.0\Aula15.exe
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\bin\Debug\net6.0\Aula15.deps.json
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\bin\Debug\net6.0\Aula15.runtimeconfig.json
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\bin\Debug\net6.0\Aula15.dll
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\bin\Debug\net6.0\Aula15.pdb
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\Aula15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\Aula15.AssemblyInfoInputs.cache
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\Aula15.AssemblyInfo.cs
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\Aula15.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\Aula15.dll
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\refint\Aula15.dll
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\Aula15.pdb
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\Aula15.genruntimeconfig.cache
+C:\Cursos\csharp_completo\Secao3\Aula15-tipos_basicos_de_dados_parte_1\Aula15\obj\Debug\net6.0\ref\Aula15.dll

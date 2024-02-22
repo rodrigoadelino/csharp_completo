@@ -1,0 +1,14 @@
+C:\Cursos\csharp_completo\Secao3\Aulas\bin\Debug\net6.0\Aulas.exe
+C:\Cursos\csharp_completo\Secao3\Aulas\bin\Debug\net6.0\Aulas.deps.json
+C:\Cursos\csharp_completo\Secao3\Aulas\bin\Debug\net6.0\Aulas.runtimeconfig.json
+C:\Cursos\csharp_completo\Secao3\Aulas\bin\Debug\net6.0\Aulas.dll
+C:\Cursos\csharp_completo\Secao3\Aulas\bin\Debug\net6.0\Aulas.pdb
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfoInputs.cache
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfo.cs
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\Aulas.dll
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\refint\Aulas.dll
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\Aulas.pdb
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\Aulas.genruntimeconfig.cache
+C:\Cursos\csharp_completo\Secao3\Aulas\obj\Debug\net6.0\ref\Aulas.dll

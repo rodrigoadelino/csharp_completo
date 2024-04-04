@@ -10,21 +10,21 @@ using System.Threading.Tasks;
 // - Padrão _lastName(atributos "internos" da classe"
 
 
-namespace Curso // "Curso" namespace - Pascal Case
-{
-    class ContaBancaria  //Pascal Case
-    {
-        public string Titular { get; set; } //Titular(prpriedade) Pascal Case
-        private double _saldo;              //Atributo interno da classe
+//namespace Curso // "Curso" namespace - Pascal Case
+//{
+//    class ContaBancaria  //Pascal Case
+//    {
+//        public string Titular { get; set; } //Titular(prpriedade) Pascal Case
+//        private double _saldo;              //Atributo interno da classe
 
-        public void Deposito (double quantia) //"Deposito" Pascal Case "quantia" =parametro de metodo variavel interna CamelCase
-        {
-            _saldo += quantia;
-        }
+//        public void Deposito (double quantia) //"Deposito" Pascal Case "quantia" =parametro de metodo variavel interna CamelCase
+//        {
+//            _saldo += quantia;
+//        }
 
-    public double GetSaldo()    // "GetSaldo" = método - PascalCase
-        {
-            return _saldo;
-        }
-    }
-}
+//    public double GetSaldo()    // "GetSaldo" = método - PascalCase
+//        {
+//            return _saldo;
+//        }
+//    }
+//}
